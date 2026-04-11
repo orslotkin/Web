@@ -1,1 +1,2 @@
 https://github.com/orslotkin/Web.git
+https://orslotkin.github.io/Web/
